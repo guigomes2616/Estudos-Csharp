@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\bin\Debug\12-Vetor.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\bin\Debug\12-Vetor.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\bin\Debug\12-Vetor.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\obj\Debug\12-Vetor.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\obj\Debug\12-Vetor.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\obj\Debug\12-Vetor.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\12-Vetor\obj\Debug\12-Vetor.pdb

@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\bin\Debug\7-IF.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\bin\Debug\7-IF.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\bin\Debug\7-IF.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\obj\Debug\7-IF.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\obj\Debug\7-IF.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\obj\Debug\7-IF.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\7-IF\obj\Debug\7-IF.pdb

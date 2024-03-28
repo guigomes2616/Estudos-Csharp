@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Conversao-typecast", "6-Conversao-typecast.csproj", "{6298186D-26CC-472F-ACE7-A71F0C10DEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6298186D-26CC-472F-ACE7-A71F0C10DEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6298186D-26CC-472F-ACE7-A71F0C10DEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6298186D-26CC-472F-ACE7-A71F0C10DEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6298186D-26CC-472F-ACE7-A71F0C10DEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34B976C-B42A-445D-8D98-2279CC40733A}
+	EndGlobalSection
+EndGlobal

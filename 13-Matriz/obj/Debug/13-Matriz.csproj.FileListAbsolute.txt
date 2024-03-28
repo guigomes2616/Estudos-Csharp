@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\bin\Debug\13-Matriz.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\bin\Debug\13-Matriz.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\bin\Debug\13-Matriz.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\obj\Debug\13-Matriz.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\obj\Debug\13-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\obj\Debug\13-Matriz.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\13-Matriz\obj\Debug\13-Matriz.pdb

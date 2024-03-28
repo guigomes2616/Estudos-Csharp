@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\bin\Debug\1-Variaveis.exe.config
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\bin\Debug\1-Variaveis.exe
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\bin\Debug\1-Variaveis.pdb
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\obj\Debug\1-Variaveis.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\obj\Debug\1-Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\obj\Debug\1-Variaveis.exe
+C:\Users\Tecnico\Desktop\Estudos C#\1-Variaveis\1-Variaveis\obj\Debug\1-Variaveis.pdb

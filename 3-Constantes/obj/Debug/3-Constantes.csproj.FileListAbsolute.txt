@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\bin\Debug\3-Constantes.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\bin\Debug\3-Constantes.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\bin\Debug\3-Constantes.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\obj\Debug\3-Constantes.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\obj\Debug\3-Constantes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\obj\Debug\3-Constantes.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\3-Constantes\obj\Debug\3-Constantes.pdb

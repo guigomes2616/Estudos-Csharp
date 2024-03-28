@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\obj\Debug\2-Formatacao-saida.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\obj\Debug\2-Formatacao-saida.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\bin\Debug\2-Formatacao-saida.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\bin\Debug\2-Formatacao-saida.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\bin\Debug\2-Formatacao-saida.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\obj\Debug\2-Formatacao-saida.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\2-Formatacao-saida\obj\Debug\2-Formatacao-saida.pdb

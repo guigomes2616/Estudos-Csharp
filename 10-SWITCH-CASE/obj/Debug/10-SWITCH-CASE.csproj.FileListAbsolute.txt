@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\bin\Debug\10-SWITCH-CASE.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\bin\Debug\10-SWITCH-CASE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\bin\Debug\10-SWITCH-CASE.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\obj\Debug\10-SWITCH-CASE.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\obj\Debug\10-SWITCH-CASE.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\obj\Debug\10-SWITCH-CASE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\10-SWITCH-CASE\obj\Debug\10-SWITCH-CASE.pdb

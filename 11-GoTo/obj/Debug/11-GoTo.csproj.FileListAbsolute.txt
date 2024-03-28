@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\bin\Debug\11-GoTo.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\bin\Debug\11-GoTo.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\bin\Debug\11-GoTo.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\obj\Debug\11-GoTo.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\obj\Debug\11-GoTo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\obj\Debug\11-GoTo.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\11-GoTo\obj\Debug\11-GoTo.pdb

@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\bin\Debug\9-IF-Aninhado.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\bin\Debug\9-IF-Aninhado.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\bin\Debug\9-IF-Aninhado.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\obj\Debug\9-IF-Aninhado.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\obj\Debug\9-IF-Aninhado.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\obj\Debug\9-IF-Aninhado.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\9-IF-Aninhado\obj\Debug\9-IF-Aninhado.pdb

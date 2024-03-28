@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\bin\Debug\8-IF-ELSE.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\bin\Debug\8-IF-ELSE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\bin\Debug\8-IF-ELSE.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\obj\Debug\8-IF-ELSE.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\obj\Debug\8-IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\obj\Debug\8-IF-ELSE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\8-IF-ELSE\obj\Debug\8-IF-ELSE.pdb

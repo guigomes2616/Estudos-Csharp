@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\bin\Debug\5-Enum.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\bin\Debug\5-Enum.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\bin\Debug\5-Enum.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\obj\Debug\5-Enum.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\obj\Debug\5-Enum.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\obj\Debug\5-Enum.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\5-Enum\obj\Debug\5-Enum.pdb

@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\bin\Debug\6-Conversao-typecast.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\bin\Debug\6-Conversao-typecast.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\bin\Debug\6-Conversao-typecast.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\obj\Debug\6-Conversao-typecast.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\obj\Debug\6-Conversao-typecast.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\obj\Debug\6-Conversao-typecast.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\6-Conversao-typecast\obj\Debug\6-Conversao-typecast.pdb

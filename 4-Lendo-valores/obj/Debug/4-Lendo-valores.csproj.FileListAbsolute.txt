@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\bin\Debug\4-Lendo-valores.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\bin\Debug\4-Lendo-valores.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\bin\Debug\4-Lendo-valores.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\obj\Debug\4-Lendo-valores.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\obj\Debug\4-Lendo-valores.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\obj\Debug\4-Lendo-valores.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\4-Lendo-valores\obj\Debug\4-Lendo-valores.pdb
