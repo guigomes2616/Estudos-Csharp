@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\bin\Debug\14-FOR.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\bin\Debug\14-FOR.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\bin\Debug\14-FOR.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\obj\Debug\14-FOR.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\obj\Debug\14-FOR.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\obj\Debug\14-FOR.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\14-FOR\obj\Debug\14-FOR.pdb

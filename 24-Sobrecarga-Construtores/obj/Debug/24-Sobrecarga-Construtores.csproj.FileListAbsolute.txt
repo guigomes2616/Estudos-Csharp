@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\bin\Debug\24-Sobrecarga-Construtores.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\bin\Debug\24-Sobrecarga-Construtores.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\bin\Debug\24-Sobrecarga-Construtores.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\obj\Debug\24-Sobrecarga-Construtores.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\obj\Debug\24-Sobrecarga-Construtores.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\obj\Debug\24-Sobrecarga-Construtores.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\24-Sobrecarga-Construtores\obj\Debug\24-Sobrecarga-Construtores.pdb

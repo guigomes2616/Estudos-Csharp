@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\bin\Debug\16-DO-WHILE.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\bin\Debug\16-DO-WHILE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\bin\Debug\16-DO-WHILE.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\obj\Debug\16-DO-WHILE.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\obj\Debug\16-DO-WHILE.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\obj\Debug\16-DO-WHILE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\16-DO-WHILE\obj\Debug\16-DO-WHILE.pdb

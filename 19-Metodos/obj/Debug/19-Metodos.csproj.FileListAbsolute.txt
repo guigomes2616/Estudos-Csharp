@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\bin\Debug\19-Metodos.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\bin\Debug\19-Metodos.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\bin\Debug\19-Metodos.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\obj\Debug\19-Metodos.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\obj\Debug\19-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\obj\Debug\19-Metodos.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\19-Metodos\obj\Debug\19-Metodos.pdb

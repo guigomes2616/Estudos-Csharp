@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\bin\Debug\17-FOREACH.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\bin\Debug\17-FOREACH.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\bin\Debug\17-FOREACH.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\obj\Debug\17-FOREACH.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\obj\Debug\17-FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\obj\Debug\17-FOREACH.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\17-FOREACH\obj\Debug\17-FOREACH.pdb

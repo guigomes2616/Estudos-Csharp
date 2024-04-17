@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\bin\Debug\23-Classes-Objetos.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\bin\Debug\23-Classes-Objetos.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\bin\Debug\23-Classes-Objetos.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\obj\Debug\23-Classes-Objetos.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\obj\Debug\23-Classes-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\obj\Debug\23-Classes-Objetos.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\23-Classes-Objetos\obj\Debug\23-Classes-Objetos.pdb

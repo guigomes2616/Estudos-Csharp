@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\bin\Debug\18-Metodo-ARRAYS.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\bin\Debug\18-Metodo-ARRAYS.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\bin\Debug\18-Metodo-ARRAYS.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\obj\Debug\18-Metodo-ARRAYS.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\obj\Debug\18-Metodo-ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\obj\Debug\18-Metodo-ARRAYS.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\18-Metodo-ARRAYS\obj\Debug\18-Metodo-ARRAYS.pdb

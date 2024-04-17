@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\bin\Debug\22-Argumento-PARAMS.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\bin\Debug\22-Argumento-PARAMS.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\bin\Debug\22-Argumento-PARAMS.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\obj\Debug\22-Argumento-PARAMS.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\obj\Debug\22-Argumento-PARAMS.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\obj\Debug\22-Argumento-PARAMS.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\22-Argumento-PARAMS\obj\Debug\22-Argumento-PARAMS.pdb

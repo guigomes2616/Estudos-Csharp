@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Metodo-ARRAYS", "18-Metodo-ARRAYS.csproj", "{8EAAE16A-7BB3-4977-9F3F-7198351BAC65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EAAE16A-7BB3-4977-9F3F-7198351BAC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAAE16A-7BB3-4977-9F3F-7198351BAC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAAE16A-7BB3-4977-9F3F-7198351BAC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAAE16A-7BB3-4977-9F3F-7198351BAC65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253EF797-0ED2-4EA1-9E91-3223724CC9E8}
+	EndGlobalSection
+EndGlobal

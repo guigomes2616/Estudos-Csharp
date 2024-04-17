@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\bin\Debug\21-Argumento-out.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\bin\Debug\21-Argumento-out.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\bin\Debug\21-Argumento-out.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\obj\Debug\21-Argumento-out.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\obj\Debug\21-Argumento-out.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\obj\Debug\21-Argumento-out.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\21-Argumento-out\obj\Debug\21-Argumento-out.pdb

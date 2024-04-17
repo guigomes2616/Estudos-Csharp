@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\obj\Debug\20-Passagem-referencia.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\obj\Debug\20-Passagem-referencia.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\bin\Debug\20-Passagem-referencia.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\bin\Debug\20-Passagem-referencia.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\bin\Debug\20-Passagem-referencia.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\obj\Debug\20-Passagem-referencia.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\20-Passagem-referencia\obj\Debug\20-Passagem-referencia.pdb

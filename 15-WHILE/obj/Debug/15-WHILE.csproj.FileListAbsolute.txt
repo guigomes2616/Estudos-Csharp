@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\bin\Debug\15-WHILE.exe.config
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\bin\Debug\15-WHILE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\bin\Debug\15-WHILE.pdb
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\obj\Debug\15-WHILE.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\obj\Debug\15-WHILE.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\obj\Debug\15-WHILE.exe
+C:\Users\guilh\OneDrive\Documentos\16 - Estudos-Csharp\15-WHILE\obj\Debug\15-WHILE.pdb

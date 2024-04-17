@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\16 - Estudos-Csharp\\16-DO-WHILE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5929741A-544C-406A-BC5A-54093BF45CB1}|16-DO-WHILE.csproj|c:\\users\\guilh\\onedrive\\documentos\\16 - estudos-csharp\\16-do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5929741A-544C-406A-BC5A-54093BF45CB1}|16-DO-WHILE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\16 - Estudos-Csharp\\16-DO-WHILE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\16 - Estudos-Csharp\\16-DO-WHILE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:17:40.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
