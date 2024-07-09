@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\bin\Debug\26-This.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\bin\Debug\26-This.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\bin\Debug\26-This.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\obj\Debug\26-This.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\obj\Debug\26-This.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\obj\Debug\26-This.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\26-This\obj\Debug\26-This.pdb

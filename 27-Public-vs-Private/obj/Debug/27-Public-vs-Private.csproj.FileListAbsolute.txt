@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\bin\Debug\27-Public-vs-Private.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\bin\Debug\27-Public-vs-Private.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\bin\Debug\27-Public-vs-Private.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\obj\Debug\27-Public-vs-Private.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\obj\Debug\27-Public-vs-Private.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\obj\Debug\27-Public-vs-Private.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\27-Public-vs-Private\obj\Debug\27-Public-vs-Private.pdb
