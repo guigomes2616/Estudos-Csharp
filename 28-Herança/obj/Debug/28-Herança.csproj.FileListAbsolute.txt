@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\bin\Debug\28-Herança.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\bin\Debug\28-Herança.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\bin\Debug\28-Herança.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\obj\Debug\28-Herança.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\obj\Debug\28-Herança.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\obj\Debug\28-Herança.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\28-Herança\obj\Debug\28-Herança.pdb

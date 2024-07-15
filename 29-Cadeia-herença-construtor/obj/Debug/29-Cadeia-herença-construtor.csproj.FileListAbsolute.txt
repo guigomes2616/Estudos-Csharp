@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\bin\Debug\29-Cadeia-herença-construtor.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\bin\Debug\29-Cadeia-herença-construtor.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\bin\Debug\29-Cadeia-herença-construtor.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\obj\Debug\29-Cadeia-herença-construtor.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\obj\Debug\29-Cadeia-herença-construtor.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\obj\Debug\29-Cadeia-herença-construtor.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\29-Cadeia-herença-construtor\obj\Debug\29-Cadeia-herença-construtor.pdb
