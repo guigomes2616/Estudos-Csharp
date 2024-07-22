@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\bin\Debug\30-Membros-Protected.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\bin\Debug\30-Membros-Protected.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\bin\Debug\30-Membros-Protected.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\obj\Debug\30-Membros-Protected.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\obj\Debug\30-Membros-Protected.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\obj\Debug\30-Membros-Protected.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos-Csharp\30-Membros-Protected\obj\Debug\30-Membros-Protected.pdb
